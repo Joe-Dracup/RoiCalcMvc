@@ -1,0 +1,18 @@
+﻿body {
+}
+
+.jumbotron.myJumbotron {
+    background-color: #ff8a50;
+}
+
+    .jumbotron.myJumbotron h1 {
+        color: white;
+    }
+
+    .jumbotron.myJumbotron p {
+        color: #004ba0;
+    }
+
+.col-md-6 {
+    color: #004ba0;
+}
