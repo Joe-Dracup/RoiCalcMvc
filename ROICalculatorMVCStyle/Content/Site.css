@@ -26,3 +26,12 @@ textarea {
 .form-group{
     margin: 0 auto;
 }
+
+.navbar-chess {
+    background-color: #004ba0;
+    color: #ff8a50;
+}
+
+.navbar-chess  a{
+    color: #ff8a50;
+}
